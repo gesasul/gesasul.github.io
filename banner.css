@@ -1,0 +1,27 @@
+.banner {
+    background-image: url("resep-mie-bakso.jpg");
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+
+.babber{
+    background-image: url("byakso.png");
+    background-size: contain;
+    padding-top: 71%;
+    padding-bottom: 71%;
+}
+
+.bibber{
+    background-image: url("mimik.png");
+    background-size: contain;
+    padding-top: 71%;
+    padding-bottom: 71%;
+}
+
+.bobber{
+    background-image: url("_billiard.png");
+    background-size: contain;
+    padding-top: 71%;
+    padding-bottom: 71%;
+}
